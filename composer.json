@@ -13,6 +13,7 @@
         "composer/installers": "^1.9",
         "drupal/core": "self.version"
     },
+    "version": "2.0.0",
     "repositories": [
         {
             "type": "path",
