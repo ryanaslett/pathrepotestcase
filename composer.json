@@ -1,0 +1,22 @@
+{
+    "name": "ryanaslett/pathrepotestcase",
+    "description": "Demonstrates removal of paths",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ryan Aslett (Mixologic)",
+            "email": "ryan@association.drupal.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "composer/installers": "^1.9",
+        "drupal/core": "self.version"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "core"
+        }
+    ]
+}
