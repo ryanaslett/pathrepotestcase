@@ -3,7 +3,7 @@
     "description": "Drupal is an open source content management platform powering millions of websites and applications.",
     "type": "drupal-core",
     "license": "GPL-2.0-or-later",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "require": {
         "symfony/yaml": "^4.4"
     }
